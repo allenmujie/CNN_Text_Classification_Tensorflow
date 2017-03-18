@@ -9,8 +9,6 @@
 - Reusable Vagrant Base Box image file for out of the box deployment using Vagrant (TODO)
 - Runs parallely on a cluster in Distributed Tensorflow Mode (TODO)
 
-![CNN](https://github.cerner.com/sw029693/Tensorflow_Auto_triage/blob/master/cnn_auto_triage/images/network.png)
-
 ## Requirements
 
 - Python 3
