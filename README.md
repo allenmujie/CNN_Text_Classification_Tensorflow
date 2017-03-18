@@ -1,3 +1,5 @@
+**[Parts of this code belongs to the "Implementing a CNN for Text Classification in Tensorflow" blog post.](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)**
+
 ## Multi-Class Text Classification Using Convolutional Neural Networks (Tensorflow)
 - Train, Validate & Test a Convolutional Neural Network (CNN) based model to adapt to a text-classfication task
 - Supports adding multiple classes dynamically
