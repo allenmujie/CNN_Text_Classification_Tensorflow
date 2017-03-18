@@ -56,13 +56,6 @@ optional arguments:
 
 ```
 
-## Collect, Clean, Split data (Train/test split):
-
-Execute teh datagen.sh script as follows:
-```bash
-bash datagen.sh
-```
-
 ## Train:
 
 The training step uses pre-trained word2vec word embeddings. New word embeddings are also learnt from the training data in addition to the pre-trained vectors. The pre-trained Google news word embeddings can be downloaded from [here](https://github.com/mmihaltz/word2vec-GoogleNews-vectors). This repository hosts the word2vec pre-trained Google News corpus (3 billion running words) word vector model (3 million 300-dimension English word vectors)
